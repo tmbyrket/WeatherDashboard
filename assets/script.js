@@ -11,7 +11,7 @@ function renderCities(){
     $("#cityList").empty();
     $("#cityInput").val("");
 
-    for (i=0; i<cityList.length, i++){
+    for (i=0; i<cityList.length; i++){
         var a = $("<a>");
         a.addClass("list-group-item list-group-item-action list-group-item-primary city");
         a.attr("data-name", cityList[i]);
