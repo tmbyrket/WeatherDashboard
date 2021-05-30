@@ -15,5 +15,5 @@ SO THAT I can plan a trip accordingly
 
 
 ## Image of Site:
-![image]
+![image](https://user-images.githubusercontent.com/81869202/120120972-9d9bf200-c166-11eb-8195-1923733e273f.png)
 
